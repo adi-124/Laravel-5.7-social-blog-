@@ -3,7 +3,10 @@ Social Blog by Using Facebook SDK With Admin Panel
 
 Feature 
 
-Login 
+Login
+
 Register
+
 Manage Post
+
 you can post 
